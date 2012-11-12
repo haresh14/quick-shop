@@ -41,7 +41,7 @@ public final class R {
         public static final int label=0x7f0a0002;
         public static final int menu_settings=0x7f0a0006;
         public static final int number=0x7f0a0003;
-        public static final int spinner1=0x7f0a0004;
+        public static final int quantity=0x7f0a0004;
         public static final int testbutton=0x7f0a0005;
         public static final int twopanelpager=0x7f0a0000;
         public static final int view_cart=0x7f0a0008;

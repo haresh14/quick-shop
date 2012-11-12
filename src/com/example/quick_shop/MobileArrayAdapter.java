@@ -35,7 +35,7 @@ public class MobileArrayAdapter extends ArrayAdapter<Product> {
 	 
 			View rowView = inflater.inflate(R.layout.listpicturestuff, parent, false);
 			TextView textView = (TextView) rowView.findViewById(R.id.label);
-			spinner = (Spinner) rowView.findViewById(R.id.spinner1);
+			spinner = (Spinner) rowView.findViewById(R.id.quantity);
 			spinner.setSelection(counts[position]);
 			spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
 
