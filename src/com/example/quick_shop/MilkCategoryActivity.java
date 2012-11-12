@@ -3,15 +3,10 @@ package com.example.quick_shop;
 import java.util.List;
 
 import android.os.Bundle;
-import android.app.Activity;
 import android.app.ListActivity;
 import android.content.Intent;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
-import android.widget.LinearLayout;
-import android.widget.ListView;
 import android.widget.Toast;
 
 public class MilkCategoryActivity extends ListActivity {
@@ -45,7 +40,7 @@ public class MilkCategoryActivity extends ListActivity {
     		startActivity(intent);
     		return true;
     	case R.id.cart:
-    		Toast.makeText(getApplicationContext(), "Added item" , 2).show();
+    		Toast.makeText(getApplicationContext(), "Added item" , Toast.LENGTH_SHORT).show();
     		for (int i = 0; i < milkList.size(); ++i) 
     			mediator.set((Product)getListAdapter().getItem(i), i);
     		return true;

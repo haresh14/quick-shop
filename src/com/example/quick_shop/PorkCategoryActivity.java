@@ -2,13 +2,14 @@ package com.example.quick_shop;
 
 import java.util.List;
 
+import android.app.ListActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-public class PorkCategoryActivity extends ProductListActivity {
+public class PorkCategoryActivity extends ListActivity {
 	
 private List<Product> porkList;
 	
@@ -39,7 +40,7 @@ private List<Product> porkList;
     		startActivity(intent);
     		return true;
     	case R.id.cart:
-    		Toast.makeText(getApplicationContext(), "Added item" , 2).show();
+    		Toast.makeText(getApplicationContext(), "Added item" , Toast.LENGTH_SHORT).show();
     		for (int i = 0; i < porkList.size(); ++i) 
     			mediator.set((Product)getListAdapter().getItem(i), i);
     		return true;

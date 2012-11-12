@@ -1,6 +1,5 @@
 package com.example.quick_shop;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import android.app.ListActivity;
@@ -41,7 +40,7 @@ public class BreadCategoryActivity extends ListActivity {
     		startActivity(intent);
     		return true;
     	case R.id.cart:
-    		Toast.makeText(getApplicationContext(), "Added item" , 2).show();
+    		Toast.makeText(getApplicationContext(), "Added item" , Toast.LENGTH_SHORT).show();
     		for (int i = 0; i < breadList.size(); ++i) 
     			mediator.set((Product)getListAdapter().getItem(i), i);
     		return true;

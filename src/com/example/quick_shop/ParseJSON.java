@@ -1,12 +1,9 @@
 package com.example.quick_shop;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.NoSuchElementException;
 
 import org.json.JSONArray;
@@ -73,7 +70,7 @@ public class ParseJSON
 				int amount = 0;
 				if(symbol.contains("£")) {
 					if (o.get("consumer_product/msrp/amount") instanceof Double)
-						amount = new Double(((Double) o.get("consumer_product/msrp/amount")) * 100).intValue();
+						amount = (int)Math.round((((Double) o.get("consumer_product/msrp/amount")))) * 100;
 					if (o.get("consumer_product/msrp/amount") instanceof Integer)
 						amount =((Integer) o.get("consumer_product/msrp/amount")) * 100;
 				} else

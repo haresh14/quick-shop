@@ -6,21 +6,14 @@ import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
-import android.widget.Spinner;
 import android.widget.TextView;
-import android.widget.Toast;
-import android.widget.AdapterView.OnItemSelectedListener;
 
 public class StoreArrayAdapter extends ArrayAdapter<Product> {
 
 		private final Context context;
 		private final Product[] values;
 		private final Integer[] counts;
-		
-		private final Mediator mediator = Mediator.getInstance();
 	 
 		public StoreArrayAdapter(Context context, Product[] values, Integer[] counts) {
 			super(context, R.layout.listcart, values);
