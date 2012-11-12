@@ -49,5 +49,6 @@
 
     <string name="title_activity_cart">CartActivity</string>
     <string name="title_activity_store_array_adapter">StoreArrayAdapter</string>
+    <string name="title_activity_category_list">CategoryListActivity</string>
 
 </resources>

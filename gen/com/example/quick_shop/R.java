@@ -37,21 +37,21 @@ public final class R {
     }
     public static final class id {
         public static final int cart=0x7f0a0007;
-        public static final int edit_text1=0x7f0a0001;
-        public static final int label=0x7f0a0002;
+        public static final int edit_text1=0x7f0a0003;
+        public static final int label=0x7f0a0000;
         public static final int menu_settings=0x7f0a0006;
-        public static final int number=0x7f0a0003;
-        public static final int quantity=0x7f0a0004;
+        public static final int number=0x7f0a0004;
+        public static final int quantity=0x7f0a0001;
         public static final int testbutton=0x7f0a0005;
-        public static final int twopanelpager=0x7f0a0000;
+        public static final int twopanelpager=0x7f0a0002;
         public static final int view_cart=0x7f0a0008;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
-        public static final int left=0x7f030001;
-        public static final int listbutton=0x7f030002;
-        public static final int listcart=0x7f030003;
-        public static final int listpicturestuff=0x7f030004;
+        public static final int activity_category_list=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int left=0x7f030002;
+        public static final int listbutton=0x7f030003;
+        public static final int listcart=0x7f030004;
         public static final int liststuff=0x7f030005;
         public static final int listwithbutton=0x7f030006;
         public static final int right=0x7f030007;
@@ -59,10 +59,11 @@ public final class R {
     public static final class menu {
         public static final int activity_bread_category=0x7f090000;
         public static final int activity_cart=0x7f090001;
-        public static final int activity_display_category=0x7f090002;
-        public static final int activity_main=0x7f090003;
-        public static final int activity_none=0x7f090004;
-        public static final int activity_search=0x7f090005;
+        public static final int activity_category_list=0x7f090002;
+        public static final int activity_display_category=0x7f090003;
+        public static final int activity_main=0x7f090004;
+        public static final int activity_none=0x7f090005;
+        public static final int activity_search=0x7f090006;
     }
     public static final class raw {
         public static final int tesco_bread=0x7f050000;
@@ -102,6 +103,7 @@ public final class R {
         public static final int title_activity_bread_category=0x7f060012;
         public static final int title_activity_cart=0x7f060020;
         public static final int title_activity_category=0x7f060016;
+        public static final int title_activity_category_list=0x7f060022;
         public static final int title_activity_display_category=0x7f060010;
         public static final int title_activity_eggs_category=0x7f060014;
         public static final int title_activity_main=0x7f060002;

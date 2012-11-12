@@ -81,8 +81,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".StoreArrayAdapter"
+            android:name=".CartArrayAdapter"
             android:label="@string/title_activity_store_array_adapter" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CategoryListActivity"
+            android:label="@string/title_activity_category_list" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
