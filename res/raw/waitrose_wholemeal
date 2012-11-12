@@ -1,0 +1,32 @@
+{
+  "pageUrl": "http://www.waitrose.com/shop/BrowseCmd?pageNo=1&defaultSearch=None&searchTerm=d2hvbGVtZWFsIGxvYWYgODAwZw%3D%3D&level0Aisle=Groceries&isFromHomePage=true&searchFlag=true&langId=-11&sortValue=0&storeId=10317&search=Search",
+  "cookies": [
+    "JSESSIONID=0000ZbaLxcwspbma6CeYYUgTxoj:16e3bf8ld; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_PERSISTENT=nRetOgW%2bRJg%2fY2RD7CIW4EJyyAM%3d%0a%3b2012%2d11%2d11+15%3a48%3a42%2e405%5f1352648922388%2d92141%5f10317; domain=www.waitrose.com; version=0; path=/; expires=Mon Nov 26 15:48:41 UTC 2012",
+    "WC_SESSION_ESTABLISHED=true; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_ACTIVEPOINTER=%2d11%2c10317; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_USERACTIVITY_228054821=228054821%2c10317%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cKQcziIj%2fTZ84PR2wqEDFEGE0YNvVnlV1VcHCkxX9WGvNeuntelpmVbBKfj85ajMe9L5TQXRnaTC5%0a1CzQYTFyWLmyljjxz1htBfjyzgeqUD%2bLwRIHoZxXzAs6gZ2H79iSy%2fvq2KMDXHr5IACzQ8rZPA%3d%3d; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970"
+  ],
+  "results": [
+    {
+      "consumer_product/topic:name": "Vogels wholemeal & oat loaf 800g",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-102241-Vogels+wholemeal+%26+oat+loaf"
+      ],
+      "consumer_product/msrp/amount/_source": "1.45",
+      "_url/_title": "Vogels wholemeal & oat loaf",
+      "consumer_product/msrp/amount": 1.45
+    },
+    {
+      "consumer_product/topic:name": "Warburtons Stoneground wholemeal batch loaf 800g",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-138155-Warburtons+Stoneground+wholemeal+batch+loaf"
+      ],
+      "consumer_product/msrp/amount/_source": "1.48",
+      "_url/_title": "Warburtons Stoneground wholemeal batch loaf",
+      "consumer_product/msrp/amount": 1.48
+    }
+  ]
+}

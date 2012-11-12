@@ -1,0 +1,321 @@
+{
+  "cookies": [
+    "JSESSIONID=0000WCgkygQ_cHVQkjUTVNFi2Oa:158cu87lq; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_PERSISTENT=CwqKD6hHoYiHYMmx9L1ZdinSQx4%3d%0a%3b2012%2d11%2d11+14%3a46%3a37%2e92%5f1352645197903%2d163756%5f10317; domain=www.waitrose.com; version=0; path=/; expires=Mon Nov 26 14:46:37 UTC 2012",
+    "WC_SESSION_ESTABLISHED=true; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_ACTIVEPOINTER=%2d11%2c10317; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_USERACTIVITY_228047098=228047098%2c10317%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cb7QeU3HBfE9UXTptGFG7GHmjbBKGy83JXJKuDKCN1c27qIls41wLFKEWKH1QoGlOlTJcTYKh7nS9%0a6N8s%2bQMVhucTiidzsQPrQyPTN38Ks4LwZ2NydwZDTw%2fWc6fPSsYe0vJzzYk7oYFK8c%2fLYDeQqg%3d%3d; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970"
+  ],
+  "pageUrl": "http://www.waitrose.com/shop/BrowseCmd?pageNo=1&defaultSearch=None&searchTerm=cG9yaw%3D%3D&level0Aisle=Groceries&isFromHomePage=true&searchFlag=true&langId=-11&sortValue=0&storeId=10317&search=Search",
+  "results": [
+    {
+      "consumer_product/topic:name": "Pork, sage & onion stuffed turkey (Serves 8 people)",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-224980-Pork%2C+sage+%26+onion+stuffed+turkey"
+      ],
+      "consumer_product/msrp/amount/_source": "36.00",
+      "_url/_title": "Pork, sage & onion stuffed turkey",
+      "consumer_product/msrp/amount": 36
+    },
+    {
+      "consumer_product/topic:name": "Waitrose British pork shoulder with caramelised apple and sage stuffing per kg Save 1/3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-17948-Waitrose+British+pork+shoulder+with+caramelised+apple+and+sage+stuffing",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10510770&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "3.26",
+      "_url/_title": [
+        "Save 1/3"
+      ],
+      "consumer_product/msrp/amount": 3.26
+    },
+    {
+      "consumer_product/topic:name": "essential Waitrose British pork pork mince 500g Buy 2 for £4.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-46685-essential+Waitrose+British+pork+pork+mince",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10409162&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.65",
+      "_url/_title": [
+        "Buy 2 for £4.50"
+      ],
+      "consumer_product/msrp/amount": 2.65
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British pork sausages with caremalised red onion confit 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-65076-Waitrose+6+British+pork+sausages+with+caremalised+red+onion+confit",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 12 British pork & herb chipolatas 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-24530-Waitrose+12+British+pork+%26+herb+chipolatas",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British pork sausages with bramley apple 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-22100-Waitrose+6+British+pork+sausages+with+bramley+apple",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British pork sausages with fresh leeks & chives 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-24630-Waitrose+6+British+pork+sausages+with+fresh+leeks+%26+chives",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British gourmet pork sausages with black pepper & nutmeg 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-78442-Waitrose+6+British+gourmet+pork+sausages+with+black+pepper+%26+nutmeg",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British Toulouse sausages with bacon, red wine & garlic 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-112165-Waitrose+6+British+Toulouse+sausages+with+bacon%2C+red+wine+%26+garlic",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 8 honey & rosemary British pork chipolatas wrapped in bacon 324g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-84051-Waitrose+8+honey+%26+rosemary+British+pork+chipolatas+wrapped+in+bacon",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.99",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.99
+    },
+    {
+      "consumer_product/topic:name": "Waitrose Easy pork steaks with spiced apple 383g Buy 2 for £6",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-30600-Waitrose+Easy+pork+steaks+with+spiced+apple",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10473188&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "3.99",
+      "_url/_title": [
+        "Buy 2 for £6"
+      ],
+      "consumer_product/msrp/amount": 3.99
+    },
+    {
+      "consumer_product/topic:name": "Duchy Originals organic 12 British pork chipolatas 340g Buy 2 for £6",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-78862-Duchy+Originals+organic+12+British+pork+chipolatas",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10500770&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "3.49",
+      "_url/_title": [
+        "Buy 2 for £6"
+      ],
+      "consumer_product/msrp/amount": 3.49
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British chorizo pork sausages 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-63017-Waitrose+6+British+chorizo+pork+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Duchy Originals organic 6 British pork sausages 400g Buy 2 for £6",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-105820-Duchy+Originals+organic+6+British+pork+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10500770&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "3.49",
+      "_url/_title": [
+        "Buy 2 for £6"
+      ],
+      "consumer_product/msrp/amount": 3.49
+    },
+    {
+      "consumer_product/topic:name": "Good Little Company good little sausages 360g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-112149-Good+Little+Company+good+little+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10485842&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.89",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.89
+    },
+    {
+      "consumer_product/topic:name": "Unearthed Italian roast pork loin 80g Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-100395-Unearthed+Italian+roast+pork+loin",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10528026&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.99",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.99
+    },
+    {
+      "consumer_product/topic:name": "Rankin Selection Irish pork sausages 400g 25% Off",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-21936-Rankin+Selection+Irish+pork+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10531748&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.09",
+      "_url/_title": [
+        "25% Off"
+      ],
+      "consumer_product/msrp/amount": 2.09
+    },
+    {
+      "consumer_product/topic:name": "essential Waitrose British pork cocktail sausages 390g Buy 2 for £4",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-29662-essential+Waitrose+British+pork+cocktail+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524114&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.39",
+      "_url/_title": [
+        "Buy 2 for £4"
+      ],
+      "consumer_product/msrp/amount": 2.39
+    },
+    {
+      "consumer_product/topic:name": "Rankin Selection pork & herb sausages 400g 25% Off",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-36932-Rankin+Selection+pork+%26+herb+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10531748&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.09",
+      "_url/_title": [
+        "25% Off"
+      ],
+      "consumer_product/msrp/amount": 2.09
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British pork sausages with ale mustard and buttered onion 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-49789-Waitrose+6+British+pork+sausages+with+ale+mustard+and+buttered+onion",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Duchy Originals organic British pork sausages with herbs 400g Buy 2 for £6",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-116265-Duchy+Originals+organic+British+pork+sausages+with+herbs",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10500770&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "3.49",
+      "_url/_title": [
+        "Buy 2 for £6"
+      ],
+      "consumer_product/msrp/amount": 3.49
+    },
+    {
+      "consumer_product/topic:name": "Waitrose 6 British pork sausages with sweet chilli relish 400g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-45214-Waitrose+6+British+pork+sausages+with+sweet+chilli+relish",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    },
+    {
+      "consumer_product/topic:name": "Free range pork casserole sausages 560g Buy 3 for £10",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-97879-Free+range+pork+casserole+sausages",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=&langId=-11&promotionId=10506096&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "4.00",
+      "_url/_title": [
+        "Buy 3 for £10"
+      ],
+      "consumer_product/msrp/amount": 4
+    },
+    {
+      "consumer_product/topic:name": "Waitrose British gourmet pork sausagemeat 450g Buy 2 for £5",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-25592-Waitrose+British+gourmet+pork+sausagemeat",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10518562&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "2.79",
+      "_url/_title": [
+        "Buy 2 for £5"
+      ],
+      "consumer_product/msrp/amount": 2.79
+    }
+  ]
+}

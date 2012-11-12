@@ -1,0 +1,364 @@
+{
+  "cookies": [
+    "JSESSIONID=00000RYzk1hH3j0E4YT9baOt1rC:158a5p8b3; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_PERSISTENT=sbyr6MZiL9Jzs2L8MUDWJRxhpQM%3d%0a%3b2012%2d11%2d11+12%3a50%3a01%2e528%5f1352638201508%2d127834%5f10317; domain=www.waitrose.com; version=0; path=/; expires=Mon Nov 26 12:50:00 UTC 2012",
+    "WC_SESSION_ESTABLISHED=true; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_ACTIVEPOINTER=%2d11%2c10317; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_USERACTIVITY_228044259=228044259%2c10317%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cDRyAs2K%2bC5Tsq0GvLrtU%2fZCWRg6DrcQlpMu3dqOdezcpL3apliBrolVfb81wMsqYOgz2Gk%2bUI6Uy%0anLryB3bQgmDcQK2UTgr5GxWGjDsS0VIxrrU4JFu2tD6onZcUzmsqAPlT%2bxR7dLjGlbrUhPEg%2bA%3d%3d; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970"
+  ],
+  "pageUrl": "http://www.waitrose.com/shop/BrowseCmd?pageNo=1&defaultSearch=None&searchTerm=YnJlYWQ%3D&level0Aisle=Groceries&isFromHomePage=true&searchFlag=true&langId=-11&sortValue=0&storeId=10317&search=Search",
+  "results": [
+    {
+      "consumer_product/topic:name": "Waitrose farmhouse batch multigrain 800g",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-20316-Waitrose+farmhouse+batch+multigrain"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": "Waitrose farmhouse batch multigrain",
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Hovis Best of Both medium 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-42991-Hovis+Best+of+Both+medium",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Hovis soft white medium bread 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-1128-Hovis+soft+white+medium+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Hovis wholemeal bread medium sliced bread 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-27668-Hovis+wholemeal+bread+medium+sliced+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Hovis soft white thick 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-46667-Hovis+soft+white+thick",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Waitrose soft white medium sliced 800g 20% Off",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-38210-Waitrose+soft+white+medium+sliced",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10531060&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "87",
+      "_url/_title": [
+        "20% Off"
+      ],
+      "consumer_product/msrp/amount": 87
+    },
+    {
+      "consumer_product/topic:name": "Waitrose soft white thick sliced bread 800g 20% Off",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-11428-Waitrose+soft+white+thick+sliced+bread",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10531060&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "87",
+      "_url/_title": [
+        "20% Off"
+      ],
+      "consumer_product/msrp/amount": 87
+    },
+    {
+      "consumer_product/topic:name": "Hovis granary malted brown medium sliced bread 800g Buy 2 for £2.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-27817-Hovis+granary+malted+brown+medium+sliced+bread",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524874&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.34",
+      "_url/_title": [
+        "Buy 2 for £2.50"
+      ],
+      "consumer_product/msrp/amount": 1.34
+    },
+    {
+      "consumer_product/topic:name": "Hovis Best of Both thick sliced bread 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-7126-Hovis+Best+of+Both+thick+sliced+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Warburtons thick sliced white toastie bread 800g Buy 2 for £2 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-13059-Warburtons+thick+sliced+white+toastie+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534596&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Delifrance part-baked petits pains 250g Buy 2 you save 40p",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-14645-Delifrance+part%2525252Dbaked+petits+pains",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10519848&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "99",
+      "_url/_title": [
+        "Buy 2 you save 40p"
+      ],
+      "consumer_product/msrp/amount": 99
+    },
+    {
+      "consumer_product/topic:name": "Warburtons medium sliced white bread 800g Buy 2 for £2 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-13239-Warburtons+medium+sliced+white+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534596&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Hovis seeded granary wholemeal 800g Buy 2 for £2.50 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-27239-Hovis+seeded+granary+wholemeal",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524874&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.34",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.50",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.34
+    },
+    {
+      "consumer_product/topic:name": "Hovis wholemeal thick 800g Buy 2 for £2.20 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-47270-Hovis+wholemeal+thick",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524910&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.35",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.20",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.35
+    },
+    {
+      "consumer_product/topic:name": "Warburtons wholemeal sliced bread 800g Buy 2 for £2 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-23296-Warburtons+wholemeal+sliced+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534596&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Rankin Selection Irish brown soda bread 400g 20% Off",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-10514-Rankin+Selection+Irish+brown+soda+bread",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10530838&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "94",
+      "_url/_title": [
+        "20% Off"
+      ],
+      "consumer_product/msrp/amount": 94
+    },
+    {
+      "consumer_product/topic:name": "Hovis Brit farmers wholemeal 800g Buy 2 for £2.50 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-198024-Hovis+Brit+farmers+wholemeal",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524882&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.40",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2.50",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.4
+    },
+    {
+      "consumer_product/topic:name": "Hovis British Farmers white loaf 800g Buy 2 for £2.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-197808-Hovis+British+Farmers+white+loaf",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524882&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.40",
+      "_url/_title": [
+        "Buy 2 for £2.50"
+      ],
+      "consumer_product/msrp/amount": 1.4
+    },
+    {
+      "consumer_product/topic:name": "Pane Toscano traditional pizza bruschettina 270g 20% Off",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-140663-Pane+Toscano+traditional+pizza+bruschettina",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10531056&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.51",
+      "_url/_title": [
+        "20% Off"
+      ],
+      "consumer_product/msrp/amount": 1.51
+    },
+    {
+      "consumer_product/topic:name": "Crosta & Mollica piada flatbreads 300g 20% Off",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-198092-Crosta+%26+Mollica+piada+flatbreads",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10530808&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.43",
+      "_url/_title": [
+        "20% Off"
+      ],
+      "consumer_product/msrp/amount": 1.43
+    },
+    {
+      "consumer_product/topic:name": "Warburtons soft white sliced farmhouse bread 800g Buy 2 for £2 Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-2345-Warburtons+soft+white+sliced+farmhouse+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534596&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Buy 2 for £2",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Warburtons seeded batch loaf 800g Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-15447-Warburtons+seeded+batch+loaf",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.50",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.5
+    },
+    {
+      "consumer_product/topic:name": "Hovis wholemeal sliced bread 400g",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-107487-Hovis+wholemeal+sliced+bread"
+      ],
+      "consumer_product/msrp/amount/_source": "75",
+      "_url/_title": "Hovis wholemeal sliced bread",
+      "consumer_product/msrp/amount": 75
+    },
+    {
+      "consumer_product/topic:name": "Hovis Brown original wheatgerm sliced bread 400g Brand Price Match - Checked Tesco.com 07/11/2012",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-27765-Hovis+Brown+original+wheatgerm+sliced+bread",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "75",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 75
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "pageUrl": "http://www.waitrose.com/shop/NavigationCmd?level0Aisle=Groceries&categoryId=52417",
+  "cookies": [
+    "JSESSIONID=0000YwYeJiwSnH4rrk8ioCOLIQN:17152ki7t; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_PERSISTENT=FgeEDvLS705%2fR41zWFbPugn8bhc%3d%0a%3b2012%2d11%2d11+14%3a48%3a01%2e403%5f1352645281280%2d125328%5f10317; domain=www.waitrose.com; version=0; path=/; expires=Mon Nov 26 14:48:00 UTC 2012",
+    "WC_SESSION_ESTABLISHED=true; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_ACTIVEPOINTER=%2d11%2c10317; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_USERACTIVITY_228048867=228048867%2c10317%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cEbEMUgGO%2fEGQb1Zgr9sUKLR0yVIeMoQNSLucIDUBTsBbaZZR9MNRQbKnz0ij6xpHIdPv37H80vz5%0aDrsOV2kVReAyjHrFMe%2fBK1Dz4iTOeCrue5PhDxb1NxCHYQDKeyLtooKXvOLpbBKfqyRGi05i8w%3d%3d; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970"
+  ],
+  "results": [
+    {
+      "consumer_product/topic:name": "Duchy Originals organic semi-skimmed milk 2.272litre Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-27034-Duchy+Originals+organic+semi%2525252Dskimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10448672&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.69",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.69
+    },
+    {
+      "consumer_product/topic:name": "Cravendale semi skimmed milk 2litre Buy 2 for £2.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-31787-Cravendale+semi+skimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10504366&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.50",
+      "_url/_title": [
+        "Buy 2 for £2.50"
+      ],
+      "consumer_product/msrp/amount": 1.5
+    },
+    {
+      "consumer_product/topic:name": "Yeo Valley organic fresh semi-skimmed milk 1litre Buy 2 for £1.60",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-5038-Yeo+Valley+organic+fresh+semi%2525252Dskimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10476826&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.00",
+      "_url/_title": [
+        "Buy 2 for £1.60"
+      ],
+      "consumer_product/msrp/amount": 1
+    },
+    {
+      "consumer_product/topic:name": "Alpro original chilled milk alternative 1litre Alpro Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-42881-Alpro+original+chilled+milk+alternative",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534280&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Alpro",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Duchy Originals organic whole milk 2.272litre Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-9053-Duchy+Originals+organic+whole+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10448672&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.69",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.69
+    },
+    {
+      "consumer_product/topic:name": "Alpro light chilled soya milk alternative 1litre Alpro Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-3793-Alpro+light+chilled+soya+milk+alternative",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534280&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Alpro",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Waitrose Organic semi-skimmed milk 2.272l Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-131896-Waitrose+Organic+semi%2525252Dskimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10448672&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.69",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.69
+    },
+    {
+      "consumer_product/topic:name": "Duchy Originals organic pasteurised skimmed milk 2.272litre Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-5164-Duchy+Originals+organic+pasteurised+skimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10448672&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.69",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.69
+    },
+    {
+      "consumer_product/topic:name": "Cravendale whole milk 2litre Buy 2 for £2.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-12430-Cravendale+whole+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10504366&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.50",
+      "_url/_title": [
+        "Buy 2 for £2.50"
+      ],
+      "consumer_product/msrp/amount": 1.5
+    },
+    {
+      "consumer_product/topic:name": "Yeo Valley organic fresh whole milk 1litre Buy 2 for £1.60",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-19062-Yeo+Valley+organic+fresh+whole+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10476826&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.00",
+      "_url/_title": [
+        "Buy 2 for £1.60"
+      ],
+      "consumer_product/msrp/amount": 1
+    },
+    {
+      "consumer_product/topic:name": "Cravendale skimmed milk 2litre Buy 2 for £2.50",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-49176-Cravendale+skimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10504366&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.50",
+      "_url/_title": [
+        "Buy 2 for £2.50"
+      ],
+      "consumer_product/msrp/amount": 1.5
+    },
+    {
+      "consumer_product/topic:name": "Yeo Valley organic fresh skimmed milk 1litre Buy 2 for £1.60",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-3187-Yeo+Valley+organic+fresh+skimmed+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10476826&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.00",
+      "_url/_title": [
+        "Buy 2 for £1.60"
+      ],
+      "consumer_product/msrp/amount": 1
+    },
+    {
+      "consumer_product/topic:name": "essential Waitrose chocolate flavoured milk 1litre New Lower Price",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-111701-essential+Waitrose+chocolate+flavoured+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10532434&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.22",
+      "_url/_title": [
+        "New Lower Price"
+      ],
+      "consumer_product/msrp/amount": 1.22
+    },
+    {
+      "consumer_product/topic:name": "Waitrose Organic whole milk 2.272l Buy 2 for £3",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-132092-Waitrose+Organic+whole+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10448672&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.69",
+      "_url/_title": [
+        "Buy 2 for £3"
+      ],
+      "consumer_product/msrp/amount": 1.69
+    },
+    {
+      "consumer_product/topic:name": "Emmi Caffe Latte Classic Light 230ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-11916-Emmi+Caffe+Latte+Classic+Light",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10477158&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.29",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.29
+    },
+    {
+      "consumer_product/topic:name": "essential Waitrose strawberry flavoured milk 1litre New Lower Price",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-83770-essential+Waitrose+strawberry+flavoured+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10532690&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.22",
+      "_url/_title": [
+        "New Lower Price"
+      ],
+      "consumer_product/msrp/amount": 1.22
+    },
+    {
+      "consumer_product/topic:name": "Caffe Latte Cappuccino 230ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-35135-Caffe+Latte+Cappuccino",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10477158&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.29",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.29
+    },
+    {
+      "consumer_product/topic:name": "Alpro organic chilled milk alternative 1litre Alpro Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-35349-Alpro+organic+chilled+milk+alternative",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534280&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.39",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Alpro",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.39
+    },
+    {
+      "consumer_product/topic:name": "essential Waitrose banana flavoured milk 1litre New Lower Price",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-88554-essential+Waitrose+banana+flavoured+milk",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10532436&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.22",
+      "_url/_title": [
+        "New Lower Price"
+      ],
+      "consumer_product/msrp/amount": 1.22
+    },
+    {
+      "consumer_product/topic:name": "Frijj chocolate fudge brownie 471ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-12632-Frijj+chocolate+fudge+brownie",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524254&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Dairy Crest Frijj chocolate milk drink 471ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-26773-Dairy+Crest+Frijj+chocolate+milk+drink",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524254&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Frijj strawberry milkshake 471ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-26775-Frijj+strawberry+milkshake",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524254&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.20",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.2
+    },
+    {
+      "consumer_product/topic:name": "Alpro chilled almond milk 1litre Alpro Brand Price Match - Checked Tesco.com 07/11/2012",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-166791-Alpro+chilled+almond+milk",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10534280&previousPageUrl=",
+        "http://www.waitrose.com/home/offers/waitrose_brand_pricematch.html"
+      ],
+      "consumer_product/msrp/amount/_source": "1.59",
+      "_url/_title": [
+        "Brand Price Match - Checked Tesco.com 07/11/2012",
+        "Alpro",
+        "Brand Price Match - Checked Tesco.com 07/11/2012"
+      ],
+      "consumer_product/msrp/amount": 1.59
+    },
+    {
+      "consumer_product/topic:name": "Starbucks Coffee Discoveries Seattle latte 220ml Buy 2 for £2",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-112589-Starbucks+Coffee+Discoveries+Seattle+latte",
+        "http://www.waitrose.com/shop/DisplayPromotionCmd?storeId=10317&catalogId=10001&langId=-11&promotionId=10524258&previousPageUrl="
+      ],
+      "consumer_product/msrp/amount/_source": "1.49",
+      "_url/_title": [
+        "Buy 2 for £2"
+      ],
+      "consumer_product/msrp/amount": 1.49
+    }
+  ]
+}

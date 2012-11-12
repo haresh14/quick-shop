@@ -1,0 +1,91 @@
+     
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+ 
+ <EditText android:id="@+id/edit_text1"
+     android:layout_height="wrap_content"
+     android:layout_width="fill_parent"
+     android:layout_weight="1"
+     android:hint="Search products or categories" >   
+ </EditText>   
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="0dp"
+    android:layout_weight="20"
+    android:orientation="horizontal" >
+    
+<ImageButton 
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:label="@string/label_meat"
+    android:src="@drawable/piggie"
+    android:background="#fff"
+    android:scaleType="fitCenter"
+	android:onClick="gotoPork"/>
+    
+<ImageButton 
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:label="@string/label_bread"
+    android:src="@drawable/colouredbread"
+    android:background="#fff"
+    android:scaleType="fitCenter"
+    android:onClick="gotoBread" />
+
+</LinearLayout>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="0dp"
+    android:layout_weight="20"
+    android:orientation="horizontal" >
+    
+<ImageButton 
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+	android:src="@drawable/milk"
+	android:background="#fff"
+	android:scaleType="fitCenter"
+    android:label="@string/label_milk"
+    android:onClick="gotoMilk" />
+    
+<ImageButton 
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:src="@drawable/eggs"
+    android:background="#fff"
+    android:scaleType="fitCenter"
+    android:label="@string/label_eggs"
+    android:onClick="gotoEggs" />
+
+</LinearLayout>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android/com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="0dp"
+    android:layout_weight="8"
+    android:orientation="horizontal" >
+
+<ImageButton
+    android:layout_width="0dp"
+    android:layout_height="fill_parent"
+    android:layout_weight="1"
+    android:src="@drawable/cart1"
+    android:scaleType="fitCenter"
+    android:label="@string/label_cart"
+    android:onClick="gotoCart" />
+    
+</LinearLayout>
+
+</LinearLayout>

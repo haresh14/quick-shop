@@ -1,0 +1,52 @@
+{
+  "cookies": [
+    "JSESSIONID=000065bijQJlze93-37kdobgVO7:17152ki7t; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_PERSISTENT=uuEERHkJ74uFQa5UgRvGtUoJd0c%3d%0a%3b2012%2d11%2d11+15%3a50%3a41%2e105%5f1352649041089%2d126865%5f10317; domain=www.waitrose.com; version=0; path=/; expires=Mon Nov 26 15:50:40 UTC 2012",
+    "WC_SESSION_ESTABLISHED=true; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_ACTIVEPOINTER=%2d11%2c10317; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970",
+    "WC_USERACTIVITY_228056173=228056173%2c10317%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cnull%2cItVmzOil1WW7D4CTdm6w8gnWaj%2b2oRyX7IpB7DhYsdG8k2j4IIwddb7sDPq58hzRYQemT6tEZfcg%0a6FYAJSWbG2MZzMxkNONzSux65MyXqM4ST7T7LmoMh5edfYZfedSCbI8Dad8HlHpkfmi%2bOmdlaA%3d%3d; domain=www.waitrose.com; version=0; path=/; expires=Thu Jan 01 00:00:00 UTC 1970"
+  ],
+  "pageUrl": "http://www.waitrose.com/shop/BrowseCmd?pageNo=1&defaultSearch=None&searchTerm=NiBsYXJnZSBmcmVlIHJhbmdlIGVnZ3M%3D&level0Aisle=Groceries&isFromHomePage=true&searchFlag=true&langId=-11&sortValue=0&storeId=10317&search=Search",
+  "results": [
+    {
+      "consumer_product/topic:name": "Waitrose Columbian Blacktail free range eggs large 6s",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-19704-Waitrose+Columbian+Blacktail+free+range+eggs+large"
+      ],
+      "consumer_product/msrp/amount/_source": "1.88",
+      "_url/_title": "Waitrose Columbian Blacktail free range eggs large",
+      "consumer_product/msrp/amount": 1.88
+    },
+    {
+      "consumer_product/topic:name": "Waitrose organic Columbian blacktail free range large eggs 6",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-49035-Waitrose+organic+Columbian+blacktail+free+range+large+eggs"
+      ],
+      "consumer_product/msrp/amount/_source": "2.36",
+      "_url/_title": "Waitrose organic Columbian blacktail free range large eggs",
+      "consumer_product/msrp/amount": 2.36
+    },
+    {
+      "consumer_product/topic:name": "Waitrose free range eggs very large 6s",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-18905-Waitrose+free+range+eggs+very+large"
+      ],
+      "consumer_product/msrp/amount/_source": "2.29",
+      "_url/_title": "Waitrose free range eggs very large",
+      "consumer_product/msrp/amount": 2.29
+    },
+    {
+      "consumer_product/topic:name": "British free range large eggs 6s",
+      "consumer_product/msrp/currency/prefix_symbol": "£",
+      "_url": [
+        "http://www.waitrose.com/shop/ProductView-10317-10001-82086-British+free+range+large+eggs"
+      ],
+      "consumer_product/msrp/amount/_source": "2.35",
+      "_url/_title": "British free range large eggs",
+      "consumer_product/msrp/amount": 2.35
+    }
+  ]
+}

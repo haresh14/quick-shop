@@ -1,8 +1,53 @@
 <resources>
 
-    <string name="app_name">Quick-Shop</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">Kwik Shop</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Kwik Shop</string>
+    <string name="button_meat">Meat</string>
+    <string name="label_meat">meat</string>
+    <string name="button_bread">Bread</string>
+    <string name="label_bread">bread</string>
+    <string name="button_milk">Milk</string>
+    <string name="label_milk">milk</string>
+    <string name="button_eggs">Eggs</string>
+    <string name="label_eggs">eggs</string>
+    <string name="button_fruit">Fruit</string>
+    <string name="label_fruit">fruit</string>
+    <string name="button_drink">Drinks</string>
+    <string name="label_drink">drinks</string>
+    <string name="category_help">Search for products</string>
+    <string name="title_activity_display_category">Category</string>
+    <string name="title_activity_meat_category">Meat</string>
+    <string name="title_activity_bread_category">Bread</string>
+    <string name="title_activity_milk_category">Milk</string>
+    <string name="title_activity_eggs_category">Eggs</string>
+    <string name="right_text">Hello from left</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="app_label">Kwik Shop</string>
+    <string name="search_hint">Search products and categories</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="label_cart">cart</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="quantity_prompt">Quantity:</string>
+    <string name="cart">Add to cart</string>
+    <string name="view_cart">View cart</string>
+
+    <string-array name="number_arrays">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_store_array_adapter">StoreArrayAdapter</string>
 
 </resources>
