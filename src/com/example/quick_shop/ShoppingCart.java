@@ -48,52 +48,7 @@ public class ShoppingCart implements Serializable
 		shoppingList.put(prod, number);
 	}
 	
-	public String getName()
-	{
+	public String toString() {
 		return name;
-	}
-	
-	public HashMap<Store, Integer> orderStores() {
-		priceMap = new HashMap<Store, Integer>();
-		
-		for(Product p : shoppingList.keySet())
-		{
-			int amount = shoppingList.get(p);
-			TreeMap<Integer, Store> map = p.getProdList();
-			for(Integer s : map.keySet())
-			{
-				if (!priceMap.containsKey(map.get(s)))
-					priceMap.put(map.get(s), amount * s);
-				else priceMap.put(map.get(s), priceMap.get(map.get(s)) + amount * s);
-			}
-			
-		}
-		return priceMap;
-	}
-	
-	public Pair<Store, Integer> cheapestStore()
-	{
-		int min = Integer.MAX_VALUE;
-		Store minStore = null;
-		
-		HashMap<Store, Integer> list = this.orderStores();
-		
-		for(Store s: list.keySet())
-		{
-			if(list.get(s) < min)
-			{
-				min = list.get(s);
-				minStore = s;
-			}
-		}
-		
-		return new Pair<Store, Integer>(minStore, min);
-	}
-	
-	public void printProducts()
-	{
-		for(Product p : shoppingList.keySet())
-			System.out.print(shoppingList.get(p) + " * " + p + " ");
-		System.out.println();
 	}
 }

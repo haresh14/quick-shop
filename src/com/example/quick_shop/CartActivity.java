@@ -18,7 +18,7 @@ public class CartActivity extends ListActivity {
         products = mediator.getProducts();
         Product[] productList = new Product[products.size()];
         products.toArray(productList);
-        setListAdapter(new StoreArrayAdapter(this, productList, mediator.getCounts()));
+        setListAdapter(new CartArrayAdapter(this, productList, mediator.getCounts()));
     }
     
     @Override

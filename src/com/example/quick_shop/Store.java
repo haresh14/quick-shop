@@ -1,35 +1,14 @@
 package com.example.quick_shop;
 
-import java.io.Serializable;
+import java.util.HashMap;
 
-public class Store implements Serializable
+public class Store
 {
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 7142914301630027254L;
 	private String name;
-	private Location loc;
-	
-	public Store(String name, Location loc) {
-		this.loc = loc;
-		this.name = name;
-	}
+	private HashMap<Product, Integer> prices;
 	
 	public Store(String name) {
 		this.name = name;
-	}
-	
-	public String getName() {
-		return name;
-	}
-	
-	public Location getLocation() {
-		return loc;
-	}
-	
-	public double getDistance(Location myLoc) {
-		return Location.getDistance(myLoc, loc);
 	}
 	
 	public String toString() {

@@ -76,18 +76,12 @@ public class ParseJSON
 				} else
 					amount = (Integer)o.get("consumer_product/msrp/amount");
 					
-				cat.getProduct(prod.getName()).addItem(store, amount); //add store/price pair to prod
+				cat.getProduct(prod.toString());//.addItem(store, amount); //add store/price pair to prod
 			}
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		//Print out the category's contents
-		for(Product p : cat.getProducts())
-			try{
-			System.out.println(p.getName() + " " + p.getCheapest().getFirst() + " " + p.getCheapest().getSecond());
-			} catch(NoSuchElementException ex){}
 	}
 	
 	private static String normaliseBreadName(String name)

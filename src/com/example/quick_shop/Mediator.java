@@ -41,7 +41,7 @@ public class Mediator {
 	}
 	
 	public void set(Product prod, int index) {
-		System.out.println("Set product " + prod.getName() + " to " + counts[index]);
+		System.out.println("Set product " + prod + " to " + counts[index]);
 		cart.setAmount(prod, counts[index]);
 	}
 	

@@ -35,7 +35,7 @@ public class Category {
 	{
 		for(Product p : products)
 		{
-			if(p.getName().toUpperCase().equals(name.toUpperCase()))
+			if(p.toString().toUpperCase().equals(name.toUpperCase()))
 				return p;
 		}
 		System.err.println("No object found");
