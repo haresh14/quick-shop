@@ -40,15 +40,13 @@ public class MainActivity extends Activity {
 		
 		InputStream lis = getResources().openRawResource(R.raw.tesco_pork);
 		ParseJSON.getProducts(lis, waitrose, Category.pork);
-		
-		/*is = getResources().openRawResource(R.raw.waitrose_eggs);
-		ParseJSON.getProducts(is, waitrose, Category.eggs);
-		
-		is = getResources().openRawResource(R.raw.waitrose_pork);
-		ParseJSON.getProducts(is, waitrose, Category.pork);
-		
-		is = getResources().openRawResource(R.raw.waitrose_milk);
-		ParseJSON.getProducts(is, waitrose, Category.milk);*/
+	}
+	
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		getMenuInflater().inflate(R.menu.activity_main, menu);
+
+		return true;
 	}
 
 	public void gotoPork(View view) {

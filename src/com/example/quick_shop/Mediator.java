@@ -1,7 +1,7 @@
 package com.example.quick_shop;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Collection;
+import java.util.Set;
 
 public class Mediator {
 
@@ -11,7 +11,7 @@ public class Mediator {
 	private static Mediator singleInstance = null;
 	
 	private Mediator() {
-		instantiateCart();
+		cart = ShoppingCart.CART;
 	}
 	
 	public static Mediator getInstance() {

@@ -73,10 +73,9 @@ public class ParseJSON
 						amount = (int)Math.round((((Double) o.get("consumer_product/msrp/amount")))) * 100;
 					if (o.get("consumer_product/msrp/amount") instanceof Integer)
 						amount =((Integer) o.get("consumer_product/msrp/amount")) * 100;
-				} else
+				} else {
 					amount = (Integer)o.get("consumer_product/msrp/amount");
-					
-				cat.getProduct(prod.toString());//.addItem(store, amount); //add store/price pair to prod
+				}
 			}
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
