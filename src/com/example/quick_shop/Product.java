@@ -12,10 +12,16 @@ public class Product
 		return name;
 	}
 	
+	@Override
 	public boolean equals(Object o) {
 		if (!(o instanceof Product))
 			return false;
 		Product prod = (Product) o;
 		return prod.name.equals(name);
+	}
+	
+	@Override
+	public int hashCode() {
+		return name.hashCode();
 	}
 }
