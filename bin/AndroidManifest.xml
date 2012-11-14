@@ -23,7 +23,7 @@
         </activity>
         <activity
             android:name=".PorkCategoryActivity"
-            android:label="@string/title_activity_display_category"
+            android:label="@string/title_activity_pork_category"
             android:uiOptions="splitActionBarWhenNarrow" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -73,7 +73,8 @@
         </activity>
         <activity
             android:name=".CartActivity"
-            android:label="@string/title_activity_cart" >
+            android:label="@string/title_activity_cart"
+            android:uiOptions="splitActionBarWhenNarrow" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -91,7 +92,8 @@
         </activity>
         <activity
             android:name=".CategoryListActivity"
-            android:label="@string/title_activity_category_list" >
+            android:label="@string/title_activity_category_list"
+            android:uiOptions="splitActionBarWhenNarrow" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
