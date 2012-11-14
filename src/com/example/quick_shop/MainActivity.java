@@ -49,6 +49,16 @@ public class MainActivity extends Activity {
 
 		return true;
 	}
+	
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		if (item.getItemId() == R.id.cart) {
+			Intent intent = new Intent(this, CartActivity.class);
+    		startActivity(intent);
+    		return true;
+		}
+		return false;
+	}
 
 	public void gotoPork(View view) {
 		Intent intent = new Intent(this, PorkCategoryActivity.class);
