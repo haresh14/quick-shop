@@ -3,25 +3,16 @@ package com.example.quick_shop;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Category {
-	
-	public static Category bread;
-	public static Category milk;
-	public static Category pork;
-	public static Category eggs;
+public enum Category {	
+	bread("Bread"),
+	milk("Milk"),
+	pork("Pork"),
+	eggs("Eggs");
 	
 	private String name;
 	private ArrayList<Product> products = new ArrayList<Product>();
 	
-	public static void instantiate() {
-		bread = new Category("Bread");
-		milk = new Category("Milk");
-		pork = new Category("Pork");
-		eggs = new Category("Eggs");
-	}
-	
-	private Category (String name)
-	{
+	private Category (String name) {
 		this.name = name;
 	}
 	
@@ -31,20 +22,11 @@ public class Category {
 		products.add(prod);
 	}
 	
-		public Product getProduct(String name)
-	{
-		for(Product p : products)
-		{
-			if(p.toString().toUpperCase().equals(name.toUpperCase()))
-				return p;
-		}
-		System.err.println("No object found");
-		return null;
-	}
-	
 	public List<Product> getProducts() {
 		return products;
 	}
 	
-	public String getName() { return name;}
+	public String getName() { 
+		return name;
+	}
 }

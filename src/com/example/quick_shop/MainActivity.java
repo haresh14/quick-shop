@@ -9,11 +9,10 @@ import android.os.Bundle;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
+import android.view.Menu;
 import android.view.View;
 
 public class MainActivity extends Activity {
-	
-	private Mediator mediator = Mediator.getInstance();
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -23,12 +22,9 @@ public class MainActivity extends Activity {
 		ViewPager myPager = (ViewPager) findViewById(R.id.twopanelpager);
 		myPager.setAdapter(adapter);
 		myPager.setCurrentItem(0);
-		
-		mediator.instantiateCart();
 
 		Store tesco = new Store("Tesco");
 		Store waitrose = new Store("Waitrose");
-		Category.instantiate();
 		
 		InputStream is = getResources().openRawResource(R.raw.tesco_wholemeal);
 		ParseJSON.getProducts(is, tesco, Category.bread);

@@ -1,6 +1,7 @@
 package com.example.quick_shop;
 
-import java.util.List;
+import java.util.Collection;
+import java.util.Set;
 
 import android.os.Bundle;
 import android.app.ListActivity;
@@ -8,7 +9,8 @@ import android.view.Menu;
 
 public class CartActivity extends ListActivity {
 	
-	private List<Product> products;
+	private Set<Product> products;
+	private Collection<Integer> counts;
 	
 	private Mediator mediator = Mediator.getInstance();
 	
@@ -18,7 +20,10 @@ public class CartActivity extends ListActivity {
         products = mediator.getProducts();
         Product[] productList = new Product[products.size()];
         products.toArray(productList);
-        setListAdapter(new CartArrayAdapter(this, productList, mediator.getCounts()));
+        counts = mediator.getCount();
+        Integer[] count = new Integer[counts.size()];
+        counts.toArray(count);
+        setListAdapter(new CartArrayAdapter(this, productList, count));
     }
     
     @Override
