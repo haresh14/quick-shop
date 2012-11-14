@@ -13,9 +13,7 @@
         android:textSize="18dp"
         android:padding="3dp"
         android:layout_alignParentLeft="true"
-        android:layout_toLeftOf="@+id/number"
-        >
-    </TextView>
+        android:layout_toLeftOf="@+id/number" />
 
      <TextView
         android:id="@+id/number"
@@ -26,8 +24,6 @@
         android:textSize="18dp"
         android:padding="3dp"
         android:layout_centerVertical="true"
-        android:layout_alignParentRight="true"
-        >
-    </TextView>
+        android:layout_alignParentRight="true" />
 
 </RelativeLayout>

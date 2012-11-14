@@ -96,20 +96,21 @@ public final class R {
         public static final int label_milk=0x7f060008;
         public static final int label_pork=0x7f060004;
         public static final int menu_settings=0x7f060001;
+        public static final int no_items=0x7f06001d;
         public static final int quantity_prompt=0x7f060019;
         public static final int right_text=0x7f060014;
         public static final int search_hint=0x7f060017;
         public static final int title_activity_bread_category=0x7f060011;
-        public static final int title_activity_cart=0x7f06001d;
+        public static final int title_activity_cart=0x7f06001e;
         public static final int title_activity_category=0x7f060015;
-        public static final int title_activity_category_list=0x7f06001f;
-        public static final int title_activity_display_category=0x7f060021;
+        public static final int title_activity_category_list=0x7f060020;
+        public static final int title_activity_display_category=0x7f060022;
         public static final int title_activity_eggs_category=0x7f060013;
         public static final int title_activity_main=0x7f060002;
         public static final int title_activity_milk_category=0x7f060012;
         public static final int title_activity_pork_category=0x7f060010;
-        public static final int title_activity_product_list=0x7f060020;
-        public static final int title_activity_store_array_adapter=0x7f06001e;
+        public static final int title_activity_product_list=0x7f060021;
+        public static final int title_activity_store_array_adapter=0x7f06001f;
         public static final int view_cart=0x7f06001b;
     }
     public static final class style {

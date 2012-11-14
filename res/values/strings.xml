@@ -29,6 +29,7 @@
     <string name="cart">Add to cart</string>
     <string name="view_cart">View cart</string>
     <string name="clear_cart">Clear cart</string>
+    <string name="no_items">No items in cart</string>
 
     <string-array name="number_arrays">
         <item>0</item>
