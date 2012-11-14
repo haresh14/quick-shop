@@ -16,7 +16,6 @@
     <string name="button_drink">Drinks</string>
     <string name="label_drink">drinks</string>
     <string name="category_help">Search for products</string>
-    <string name="title_activity_display_category">Category</string>
     <string name="title_activity_meat_category">Meat</string>
     <string name="title_activity_bread_category">Bread</string>
     <string name="title_activity_milk_category">Milk</string>
@@ -25,10 +24,7 @@
     <string name="title_activity_category">CategoryActivity</string>
     <string name="app_label">Kwik Shop</string>
     <string name="search_hint">Search products and categories</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="title_activity_search">SearchActivity</string>
     <string name="label_cart">cart</string>
-    <string name="title_activity_product_list">ProductListActivity</string>
     <string name="quantity_prompt">Quantity:</string>
     <string name="cart">Add to cart</string>
     <string name="view_cart">View cart</string>
@@ -50,5 +46,7 @@
     <string name="title_activity_cart">CartActivity</string>
     <string name="title_activity_store_array_adapter">StoreArrayAdapter</string>
     <string name="title_activity_category_list">CategoryListActivity</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="title_activity_display_category">Category</string>
 
 </resources>
