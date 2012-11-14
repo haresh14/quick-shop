@@ -36,15 +36,14 @@ public final class R {
         public static final int warburtons=0x7f020013;
     }
     public static final class id {
-        public static final int cart=0x7f0a0007;
+        public static final int cart=0x7f0a0006;
         public static final int edit_text1=0x7f0a0003;
         public static final int label=0x7f0a0000;
-        public static final int menu_settings=0x7f0a0006;
+        public static final int menu_settings=0x7f0a0005;
         public static final int number=0x7f0a0004;
         public static final int quantity=0x7f0a0001;
-        public static final int testbutton=0x7f0a0005;
         public static final int twopanelpager=0x7f0a0002;
-        public static final int view_cart=0x7f0a0008;
+        public static final int view_cart=0x7f0a0007;
     }
     public static final class layout {
         public static final int activity_category_list=0x7f030000;
@@ -53,8 +52,7 @@ public final class R {
         public static final int listbutton=0x7f030003;
         public static final int listcart=0x7f030004;
         public static final int liststuff=0x7f030005;
-        public static final int listwithbutton=0x7f030006;
-        public static final int right=0x7f030007;
+        public static final int right=0x7f030006;
     }
     public static final class menu {
         public static final int activity_bread_category=0x7f090000;
@@ -78,7 +76,7 @@ public final class R {
         public static final int waitrose_wholemeal=0x7f050009;
     }
     public static final class string {
-        public static final int app_label=0x7f060017;
+        public static final int app_label=0x7f060016;
         public static final int app_name=0x7f060000;
         public static final int button_bread=0x7f060005;
         public static final int button_drink=0x7f06000d;
@@ -86,33 +84,31 @@ public final class R {
         public static final int button_fruit=0x7f06000b;
         public static final int button_meat=0x7f060003;
         public static final int button_milk=0x7f060007;
-        public static final int cart=0x7f06001e;
+        public static final int cart=0x7f06001a;
         public static final int category_help=0x7f06000f;
-        public static final int hello_world=0x7f060019;
         public static final int label_bread=0x7f060006;
-        public static final int label_cart=0x7f06001b;
+        public static final int label_cart=0x7f060018;
         public static final int label_drink=0x7f06000e;
         public static final int label_eggs=0x7f06000a;
         public static final int label_fruit=0x7f06000c;
         public static final int label_meat=0x7f060004;
         public static final int label_milk=0x7f060008;
         public static final int menu_settings=0x7f060001;
-        public static final int quantity_prompt=0x7f06001d;
-        public static final int right_text=0x7f060015;
-        public static final int search_hint=0x7f060018;
-        public static final int title_activity_bread_category=0x7f060012;
-        public static final int title_activity_cart=0x7f060020;
-        public static final int title_activity_category=0x7f060016;
-        public static final int title_activity_category_list=0x7f060022;
-        public static final int title_activity_display_category=0x7f060010;
-        public static final int title_activity_eggs_category=0x7f060014;
+        public static final int quantity_prompt=0x7f060019;
+        public static final int right_text=0x7f060014;
+        public static final int search_hint=0x7f060017;
+        public static final int title_activity_bread_category=0x7f060011;
+        public static final int title_activity_cart=0x7f06001c;
+        public static final int title_activity_category=0x7f060015;
+        public static final int title_activity_category_list=0x7f06001e;
+        public static final int title_activity_display_category=0x7f060020;
+        public static final int title_activity_eggs_category=0x7f060013;
         public static final int title_activity_main=0x7f060002;
-        public static final int title_activity_meat_category=0x7f060011;
-        public static final int title_activity_milk_category=0x7f060013;
-        public static final int title_activity_product_list=0x7f06001c;
-        public static final int title_activity_search=0x7f06001a;
-        public static final int title_activity_store_array_adapter=0x7f060021;
-        public static final int view_cart=0x7f06001f;
+        public static final int title_activity_meat_category=0x7f060010;
+        public static final int title_activity_milk_category=0x7f060012;
+        public static final int title_activity_product_list=0x7f06001f;
+        public static final int title_activity_store_array_adapter=0x7f06001d;
+        public static final int view_cart=0x7f06001b;
     }
     public static final class style {
         public static final int AppTheme=0x7f080000;
