@@ -49,19 +49,17 @@ public final class R {
         public static final int activity_category_list=0x7f030000;
         public static final int activity_main=0x7f030001;
         public static final int left=0x7f030002;
-        public static final int listbutton=0x7f030003;
-        public static final int listcart=0x7f030004;
-        public static final int liststuff=0x7f030005;
-        public static final int right=0x7f030006;
+        public static final int listcart=0x7f030003;
+        public static final int liststuff=0x7f030004;
+        public static final int right=0x7f030005;
     }
     public static final class menu {
-        public static final int activity_bread_category=0x7f090000;
-        public static final int activity_cart=0x7f090001;
-        public static final int activity_category_list=0x7f090002;
-        public static final int activity_display_category=0x7f090003;
-        public static final int activity_main=0x7f090004;
-        public static final int activity_none=0x7f090005;
-        public static final int activity_search=0x7f090006;
+        public static final int activity_cart=0x7f090000;
+        public static final int activity_category_list=0x7f090001;
+        public static final int activity_display_category=0x7f090002;
+        public static final int activity_main=0x7f090003;
+        public static final int activity_none=0x7f090004;
+        public static final int activity_search=0x7f090005;
     }
     public static final class raw {
         public static final int tesco_bread=0x7f050000;
@@ -82,8 +80,8 @@ public final class R {
         public static final int button_drink=0x7f06000d;
         public static final int button_eggs=0x7f060009;
         public static final int button_fruit=0x7f06000b;
-        public static final int button_meat=0x7f060003;
         public static final int button_milk=0x7f060007;
+        public static final int button_pork=0x7f060003;
         public static final int cart=0x7f06001a;
         public static final int category_help=0x7f06000f;
         public static final int label_bread=0x7f060006;
@@ -91,8 +89,8 @@ public final class R {
         public static final int label_drink=0x7f06000e;
         public static final int label_eggs=0x7f06000a;
         public static final int label_fruit=0x7f06000c;
-        public static final int label_meat=0x7f060004;
         public static final int label_milk=0x7f060008;
+        public static final int label_pork=0x7f060004;
         public static final int menu_settings=0x7f060001;
         public static final int quantity_prompt=0x7f060019;
         public static final int right_text=0x7f060014;
@@ -104,8 +102,8 @@ public final class R {
         public static final int title_activity_display_category=0x7f060020;
         public static final int title_activity_eggs_category=0x7f060013;
         public static final int title_activity_main=0x7f060002;
-        public static final int title_activity_meat_category=0x7f060010;
         public static final int title_activity_milk_category=0x7f060012;
+        public static final int title_activity_pork_category=0x7f060010;
         public static final int title_activity_product_list=0x7f06001f;
         public static final int title_activity_store_array_adapter=0x7f06001d;
         public static final int view_cart=0x7f06001b;

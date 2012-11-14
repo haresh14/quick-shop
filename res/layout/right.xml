@@ -23,7 +23,7 @@
     android:layout_width="0dp"
     android:layout_height="fill_parent"
     android:layout_weight="1"
-    android:label="@string/label_meat"
+    android:label="@string/label_pork"
     android:src="@drawable/piggie"
     android:background="#fff"
     android:scaleType="fitCenter"

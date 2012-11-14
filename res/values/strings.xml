@@ -3,8 +3,8 @@
     <string name="app_name">Kwik Shop</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">Kwik Shop</string>
-    <string name="button_meat">Meat</string>
-    <string name="label_meat">meat</string>
+    <string name="button_pork">Pork</string>
+    <string name="label_pork">pork</string>
     <string name="button_bread">Bread</string>
     <string name="label_bread">bread</string>
     <string name="button_milk">Milk</string>
@@ -16,7 +16,7 @@
     <string name="button_drink">Drinks</string>
     <string name="label_drink">drinks</string>
     <string name="category_help">Search for products</string>
-    <string name="title_activity_meat_category">Meat</string>
+    <string name="title_activity_pork_category">Pork</string>
     <string name="title_activity_bread_category">Bread</string>
     <string name="title_activity_milk_category">Milk</string>
     <string name="title_activity_eggs_category">Eggs</string>
