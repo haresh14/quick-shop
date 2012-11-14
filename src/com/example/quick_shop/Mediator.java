@@ -36,4 +36,8 @@ public class Mediator {
 	public Set<Product> getProducts() {
 		return cart.getProducts();
 	}
+	
+	public void clear() {
+		cart.clear();
+	}
 }

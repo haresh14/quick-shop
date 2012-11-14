@@ -17,6 +17,10 @@ public enum ShoppingCart {
 		products.put(product, amount);
 	}
 	
+	public void clear() {
+		products.clear();
+	}
+	
 	public Set<Product> getProducts() {
 		return products.keySet();
 	}
