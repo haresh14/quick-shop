@@ -1,16 +1,16 @@
 package com.example.quick_shop;
 
 
-import android.os.Bundle;
+import java.util.ArrayList;
+
 import android.app.ListActivity;
-import android.content.Intent;
+import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 
 public class CartActivity extends ListActivity {
 	
-	private Product[] products;
+	private ArrayList<Product> products;
 	private Integer[] counts;
 	
 	private Mediator mediator = Mediator.getInstance();
@@ -19,10 +19,10 @@ public class CartActivity extends ListActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        products = new Product[mediator.getProducts().size()];
+        products = mediator.getProducts();
         counts = new Integer[mediator.getCount().size()];
         
-        products = mediator.getProducts().toArray(products);
+        products = mediator.getProducts();
         counts = mediator.getCount().toArray(counts);
         
         adapter = new CartArrayAdapter(this, products, counts);
@@ -40,9 +40,9 @@ public class CartActivity extends ListActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
     	if (item.getItemId() == R.id.clear_cart) {
     		mediator.clear();
-    		products = null;
+    		products.clear();
     		counts = null;
-    		adapter.notifyDataSetChanged();
+    		adapter.notifyDataSetInvalidated();
     		return true;
     	}
     	return false;

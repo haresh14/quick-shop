@@ -1,6 +1,6 @@
 package com.example.quick_shop;
 
-import com.example.quick_shop.R;
+import java.util.ArrayList;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -12,10 +12,10 @@ import android.widget.TextView;
 public class CartArrayAdapter extends ArrayAdapter<Product> {
 
 		private final Context context;
-		private final Product[] values;
-		private final Integer[] counts;
+		private ArrayList<Product> values;
+		private Integer[] counts;
 	 
-		public CartArrayAdapter(Context context, Product[] values, Integer[] counts) {
+		public CartArrayAdapter(Context context, ArrayList<Product> values, Integer[] counts) {
 			super(context, R.layout.listcart, values);
 			this.context = context;
 			this.values = values;
@@ -29,7 +29,7 @@ public class CartArrayAdapter extends ArrayAdapter<Product> {
 	 
 			View rowView = inflater.inflate(R.layout.listcart, parent, false);
 			TextView textView = (TextView) rowView.findViewById(R.id.label);
-			textView.setText(values[position].toString());
+			textView.setText(values.get(position).toString());
 			TextView numView = (TextView) rowView.findViewById(R.id.number);
 			numView.setText(String.valueOf(counts[position]));
 			return rowView;
