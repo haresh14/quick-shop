@@ -33,8 +33,11 @@ public class Mediator {
 		return cart.getCount();
 	}
 	
-	public Set<Product> getProducts() {
-		return cart.getProducts();
+	public ArrayList<Product> getProducts() {
+		ArrayList<Product> products = new ArrayList<Product>();
+		for (Product prod : cart.getProducts())
+			products.add(prod);
+		return products;
 	}
 	
 	public void clear() {
