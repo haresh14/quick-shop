@@ -13,14 +13,19 @@ public class CategoryListActivity extends ListActivity {
 	
 	private List<Product> productList;
 	private Category category;
-	
+
+	// Every class that needs to change the cart gets the single instance of the mediator
 	private Mediator mediator = Mediator.getInstance();
 	
+	/**
+	 * @param category Category for this particular ListView
+	 */
 	public CategoryListActivity(Category category) {
 		this.category = category;
 	}
 	
     @Override
+    // List view for products in categories. Layout defined in activity_category_list.xml
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         productList = category.getProducts();
@@ -44,6 +49,7 @@ public class CategoryListActivity extends ListActivity {
     		Intent intent = new Intent(this, CartActivity.class);
     		startActivity(intent);
     		return true;
+    	// Add an item to the cart. Shows text to notify the user of this
     	case R.id.cart:
     		Toast.makeText(getApplicationContext(), "Added item" , Toast.LENGTH_SHORT).show();
     		for (int i = 0; i < productList.size(); ++i) 
