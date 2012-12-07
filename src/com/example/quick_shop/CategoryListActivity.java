@@ -9,6 +9,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+/**
+ * @author sebastian
+ * Creates a ListView in the format specified in activity_category_list.xml. Also contains
+ * a menu-bar with the "Add to Cart", and "View Cart" options. Adapters for the ListView
+ * are initialised in the constructor.
+ */
 public class CategoryListActivity extends ListActivity {
 	
 	private List<Product> productList;

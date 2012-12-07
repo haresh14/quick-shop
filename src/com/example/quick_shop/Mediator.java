@@ -3,6 +3,11 @@ package com.example.quick_shop;
 import java.util.ArrayList;
 import java.util.Collection;
 
+/**
+ * @author sebastian
+ * Singleton Mediator (possible change to enum type). Responsible for dispatching various tasks
+ * to other classes. Needs to keep a copy of the cart, as well as the counts for products in the ListViews.
+ */
 public class Mediator {
 
 	private ShoppingCart cart;

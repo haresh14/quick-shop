@@ -9,6 +9,10 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+/**
+ * @author sebastian
+ * Need to work on this as it's not doing what I want. Might write my own JSON parser.
+ */
 public class ParseJSON
 {	
 	public static void getProducts(InputStream fpath, Store store, Category category) {
