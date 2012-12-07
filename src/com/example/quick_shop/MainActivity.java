@@ -15,6 +15,15 @@ import android.view.View;
 
 public class MainActivity extends Activity {
 	
+	// I wish I had a better idea for this. I want to dispatch these automatically but I'm stuck
+	// on getting the categories to match up all the time. Right now, if we added a new store
+	// it would have to have resources in this order: bread, eggs, milk, and pork
+	private int[] tesco_resources = {R.raw.tesco_bread, R.raw.tesco_eggs, R.raw.tesco_milk,
+									  R.raw.tesco_pork};
+	private int[] waitrose_resources = {R.raw.waitrose_bread, R.raw.waitrose_eggs, R.raw.waitrose_milk,
+									     R.raw.waitrose_pork};
+	private Category[] categories = { Category.bread, Category.eggs, Category.milk, Category.pork };
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -25,23 +34,11 @@ public class MainActivity extends Activity {
 		myPager.setCurrentItem(0);
 
 		Store tesco = new Store("Tesco");
+		tesco.setResources(tesco_resources);
 		Store waitrose = new Store("Waitrose");
-		
-		// Will work on making this less ugly very soon
-		InputStream is = getResources().openRawResource(R.raw.tesco_wholemeal);
-		ParseJSON.getProducts(is, tesco, Category.bread);
-		
-		is = getResources().openRawResource(R.raw.waitrose_wholemeal);
-		ParseJSON.getProducts(is, waitrose, Category.bread);
-		
-		is = getResources().openRawResource(R.raw.tesco_eggs);
-		ParseJSON.getProducts(is, tesco, Category.eggs);
-		
-		is = getResources().openRawResource(R.raw.tesco_milk);
-		ParseJSON.getProducts(is, tesco, Category.milk);
-		
-		is = getResources().openRawResource(R.raw.tesco_pork);
-		ParseJSON.getProducts(is, waitrose, Category.pork);
+		waitrose.setResources(waitrose_resources);
+		retrieveInput(tesco);
+		retrieveInput(waitrose);
 	}
 	
 	@Override
@@ -59,6 +56,17 @@ public class MainActivity extends Activity {
     		return true;
 		}
 		return false;
+	}
+	
+	/**
+	 * Populates the ListViews with items from the files given in store.getResources()
+	 */
+	public void retrieveInput(Store store) {
+		int[] resources = store.getResources();
+		for (int i = 0; i < resources.length; ++i) {
+			InputStream is = getResources().openRawResource(resources[i]);
+			ParseJSON.getProducts(is, store, categories[i]);	
+		}
 	}
 
 	// Necessary methods to start each individual activity. This list will grow
