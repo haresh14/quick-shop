@@ -1,5 +1,11 @@
 package com.example.quick_shop;
 
+/**
+ * @author sebastian
+ * Products only have names, as prices may differ from store to store.
+ * Needs to override equals and hashCode for use in HashMaps, ArrayLists 
+ * and other data structures.
+ */
 public class Product
 {
 	private String name;

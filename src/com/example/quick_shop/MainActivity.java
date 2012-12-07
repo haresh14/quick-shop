@@ -27,20 +27,21 @@ public class MainActivity extends Activity {
 		Store tesco = new Store("Tesco");
 		Store waitrose = new Store("Waitrose");
 		
+		// Will work on making this less ugly very soon
 		InputStream is = getResources().openRawResource(R.raw.tesco_wholemeal);
 		ParseJSON.getProducts(is, tesco, Category.bread);
 		
-		InputStream nis = getResources().openRawResource(R.raw.waitrose_wholemeal);
-		ParseJSON.getProducts(nis, waitrose, Category.bread);
+		is = getResources().openRawResource(R.raw.waitrose_wholemeal);
+		ParseJSON.getProducts(is, waitrose, Category.bread);
 		
-		InputStream jis = getResources().openRawResource(R.raw.tesco_eggs);
-		ParseJSON.getProducts(jis, tesco, Category.eggs);
+		is = getResources().openRawResource(R.raw.tesco_eggs);
+		ParseJSON.getProducts(is, tesco, Category.eggs);
 		
-		InputStream kis = getResources().openRawResource(R.raw.tesco_milk);
-		ParseJSON.getProducts(kis, tesco, Category.milk);
+		is = getResources().openRawResource(R.raw.tesco_milk);
+		ParseJSON.getProducts(is, tesco, Category.milk);
 		
-		InputStream lis = getResources().openRawResource(R.raw.tesco_pork);
-		ParseJSON.getProducts(lis, waitrose, Category.pork);
+		is = getResources().openRawResource(R.raw.tesco_pork);
+		ParseJSON.getProducts(is, waitrose, Category.pork);
 	}
 	
 	@Override
@@ -60,6 +61,8 @@ public class MainActivity extends Activity {
 		return false;
 	}
 
+	// Necessary methods to start each individual activity. This list will grow
+	// very large in the future. I'm looking into making this process less tiresome.
 	public void gotoPork(View view) {
 		Intent intent = new Intent(this, PorkCategoryActivity.class);
 		startActivity(intent);
@@ -85,6 +88,11 @@ public class MainActivity extends Activity {
 		startActivity(intent);
 	}
 
+	/**
+	 * @author sebastian
+	 * Switches views on slide. Currently there are only two views (named left and right) which have
+	 * the same layout. 
+	 */
 	private class MyPagerAdapter extends PagerAdapter {
 
 		@Override

@@ -4,9 +4,16 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Set;
 
+/**
+ * @author sebastian
+ * There is only one shopping cart at any instant in time. A singleton
+ * pattern just seemed to be the easiest way to ensure that, and an enum
+ * enforces noninstantiability.
+ */
 public enum ShoppingCart {
 	CART;
 	
+	// Product and amount to buy
 	private HashMap<Product, Integer> products;
 	
 	private ShoppingCart() {

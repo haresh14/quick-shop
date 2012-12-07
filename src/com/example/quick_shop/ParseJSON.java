@@ -11,8 +11,7 @@ import org.json.JSONObject;
 
 public class ParseJSON
 {	
-	public static void getProducts(InputStream fpath, Store store, Category category)
-	{
+	public static void getProducts(InputStream fpath, Store store, Category category) {
 		//Read the input file
 		String source = ParseJSON.readFile(fpath);
 		
